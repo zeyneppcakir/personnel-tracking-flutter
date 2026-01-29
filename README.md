@@ -1,16 +1,25 @@
-# bilsoft_app
+# Personnel Tracking System (Flutter)
 
-A new Flutter project.
+This project was developed during my internship at **Bilsoft Yazılım**.
 
-## Getting Started
+It is a mobile Personnel Tracking System built with **Flutter** and integrated with **REST APIs**.
 
-This project is a starting point for a Flutter application.
+## Features
+- JWT-based authentication
+- Personnel CRUD operations
+- Payroll management module
+- File upload & attachment handling
+- Secure token storage using local persistence
+- Modular service-based architecture
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- REST API Integration
+- Secure token storage
+- MVVM / Service-based structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ Note: This repository does not contain any real user data. The project uses a test database.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+(Add screenshots here if desired)
