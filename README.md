@@ -40,20 +40,32 @@ The application was internally approved and deployed to production during my int
 ## Application Screens
 
 ### Authentication (Light / Dark Mode)
-![Login Light](assets/images/01_login_light.png)
-![Login Dark](assets/images/02_login_dark.png)
+<p align="center">
+  <img src="assets/images/01_login_light.png" width="220"/>
+  <img src="assets/images/02_login_dark.png" width="220"/>
+</p>
 
 ### Dashboard
-![Home](assets/images/03_home.png)
+<p align="center">
+  <img src="assets/images/03_home.png" width="220"/>
+</p>
 
 ### Personnel Management
-![Personnel](assets/images/04_personnel.png)
+<p align="center">
+  <img src="assets/images/04_personnel.png" width="220"/>
+</p>
 
 ### Payroll Module
-![Payroll](assets/images/05_payroll.png)
+<p align="center">
+  <img src="assets/images/05_payroll.png" width="220"/>
+</p>
 
 ### File Management
-![Files](assets/images/06_files.png)
+<p align="center">
+  <img src="assets/images/06_files.png" width="220"/>
+</p>
 
 ### Settings
-![Settings](assets/images/07_settings.png)
+<p align="center">
+  <img src="assets/images/07_settings.png" width="220"/>
+</p>
