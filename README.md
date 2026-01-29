@@ -2,7 +2,7 @@
 
 This project was developed during my internship at **Bilsoft Yazılım** and deployed to production.
 
-It is a mobile Personnel Tracking System built with **Flutter** and integrated with **REST APIs**.
+It is a production-ready mobile Personnel Tracking System built with **Flutter** and integrated with secure **REST APIs**.
 
 ---
 
@@ -12,9 +12,9 @@ It is a mobile Personnel Tracking System built with **Flutter** and integrated w
 - Personnel CRUD operations
 - Payroll management module
 - File upload & attachment handling
-- Secure token storage using local persistence
-- Modular service-based architecture
-- App-wide dark mode support
+- Secure token storage
+- Modular MVVM-based architecture
+- App-wide Dark Mode support
 - Multi-language support
 
 ---
@@ -25,35 +25,35 @@ It is a mobile Personnel Tracking System built with **Flutter** and integrated w
 - Dart
 - REST API integration
 - Secure token storage
-- MVVM / Service-based architecture
+- MVVM Architecture
 
 ---
 
 ## Deployment
 
-The application was approved internally and deployed to production during my internship.
+The application was internally approved and deployed to production during my internship period.
 
-Note: This repository does not contain any real user data. The project uses a test database.
+> This repository does not contain real user data. A test database is used.
 
 ---
 
 ## Application Screens
 
 ### Authentication (Light / Dark Mode)
-![Login Light](assets/screenshots/01_login_light.png)
-![Login Dark](assets/screenshots/02_login_dark.png)
+![Login Light](assets/images/01_login_light.png)
+![Login Dark](assets/images/02_login_dark.png)
 
 ### Dashboard
-![Home](assets/screenshots/03_home.png)
+![Home](assets/images/03_home.png)
 
 ### Personnel Management
-![Personnel](assets/screenshots/04_personnel.png)
+![Personnel](assets/images/04_personnel.png)
 
 ### Payroll Module
-![Payroll](assets/screenshots/05_payroll.png)
+![Payroll](assets/images/05_payroll.png)
 
 ### File Management
-![Files](assets/screenshots/06_files.png)
+![Files](assets/images/06_files.png)
 
 ### Settings
-![Settings](assets/screenshots/07_settings.png)
+![Settings](assets/images/07_settings.png)
